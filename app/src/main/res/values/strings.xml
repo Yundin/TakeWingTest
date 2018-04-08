@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TakeWingTest</string>
+    <string name="hellocharts_android_tv">%d</string>
+</resources>
